@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img align="right" height="150" src="https://cdn.dribbble.com/userupload/24898076/file/original-0e6fdb1ed026c5d0c908737a6dbfdb42.gif" />
+<img align="right" height="150" src="[https://cdn.dribbble.com/userupload/24898076/file/original-0e6fdb1ed026c5d0c908737a6dbfdb42.gif](https://cdn.dribbble.com/userupload/20765198/file/original-6c3b5ed861260a26c94d241b2090f623.gif)" />
 
 ### Technologies and Tools:
 
