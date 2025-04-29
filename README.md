@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 
-<div align="center">
+<div align="justify">
   <a href="https://github.com/BlueKannary">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=BlueKannary&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueKannary&layout=compact&langs_count=7&theme=one_dark_pro" />
